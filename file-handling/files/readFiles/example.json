@@ -1,0 +1,29 @@
+{
+  "name": "John Doe",
+  "age": 28,
+  "skills": {
+    "languages": ["JavaScript", "Python", "Java"],
+    "tools": ["Docker", "Ansible", "Jenkins"]
+  },
+  "experience": [
+    {
+      "company": "Tech Solutions",
+      "role": "Software Engineer",
+      "years": 2
+    },
+    {
+      "company": "DevOps Hub",
+      "role": "DevOps Engineer",
+      "years": 1.5
+    }
+  ],
+  "education": {
+    "degree": "B.Sc in Computer Science",
+    "university": "ABC University",
+    "graduationYear": 2018
+  },
+  "contact": {
+    "email": "nikhil@example.com",
+    "phone": "+91-9876543210"
+  }
+}

@@ -1,0 +1,2 @@
+Hi this is from example.txt
+How are you ?

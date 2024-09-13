@@ -1,6 +1,7 @@
 const express = require('express');
 const users = require('./MOCK_DATA.json')
 const dotenv = require('dotenv')
+
 const fs = require('fs');
 
 // dotenv configuration

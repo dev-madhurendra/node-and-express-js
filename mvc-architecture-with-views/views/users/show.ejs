@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="/css/users/show.styles.css">
+  <title>User Details</title>
+</head>
+<body>
+  <div class="details-container">
+    <h1>User Details</h1>
+    <div class="user-info">
+      <p><strong>First Name:</strong> <%= user.firstName %></p>
+      <p><strong>Last Name:</strong> <%= user.lastName %></p>
+      <p><strong>Email:</strong> <%= user.email %></p>
+      <p><strong>Job Title:</strong> <%= user.jobTitle %></p>
+    </div>
+    <a href="/users" class="back-btn">Back to Users</a>
+  </div>
+</body>
+</html>

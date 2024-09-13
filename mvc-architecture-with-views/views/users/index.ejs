@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="/css/users/index.styles.css">
+  <title>All Users</title>
+</head>
+<body>
+  <div class="container">
+    <h1>All Users</h1>
+
+    <table class="styled-table">
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Email</th>
+          <th>Actions</th>
+        </tr>
+      </thead>
+      <tbody>
+        <% users.forEach(user => { %>
+          <tr>
+            <td><a href="/users/<%= user._id %>"><%= user.firstName %> <%= user.lastName %></a></td>
+            <td><%= user.email %></td>
+            <td>
+              <button class="update-btn" href="/users/<%= user._id %>/edit">Update</button>
+              <form action="/users/<%= user._id %>?_method=DELETE" method="POST" style="display: inline;">
+                <button class="delete-btn" type="submit">Delete</button>
+              </form>
+            </td>
+          </tr>
+        <% }) %>
+      </tbody>
+    </table>
+
+    <a class="create-btn" href="/users/new">Create New User</a>
+  </div>
+</body>
+</html>

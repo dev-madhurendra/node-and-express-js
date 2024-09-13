@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="/css/users/form.styles.css">
+  <title><%= user ? 'Edit User' : 'Create New User' %></title>
+</head>
+<body>
+  <div class="form-container">
+    <h1><%= user ? 'Edit User' : 'Create New User' %></h1>
+    <form action="<%= user ? '/users/' + user._id + '?_method=PATCH' : '/users' %>" method="POST" class="user-form">
+      <div class="form-group">
+        <label for="firstName">First Name:</label>
+        <input type="text" id="firstName" name="firstName" value="<%= user ? user.firstName : '' %>" required>
+      </div>
+      
+      <div class="form-group">
+        <label for="lastName">Last Name:</label>
+        <input type="text" id="lastName" name="lastName" value="<%= user ? user.lastName : '' %>">
+      </div>
+
+      <div class="form-group">
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" value="<%= user ? user.email : '' %>" required>
+      </div>
+
+      <div class="form-group">
+        <label for="jobTitle">Job Title:</label>
+        <input type="text" id="jobTitle" name="jobTitle" value="<%= user ? user.jobTitle : '' %>">
+      </div>
+
+      <button class="submit-btn" type="submit"><%= user ? 'Update' : 'Create' %></button>
+    </form>
+    <a class="back-btn" href="/users">Back to Users</a>
+  </div>
+</body>
+</html>

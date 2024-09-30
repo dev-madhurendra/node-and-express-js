@@ -43,3 +43,93 @@
 {"level":"info","message":">>> {\n  _id: new ObjectId('66e806c3a4f397d74d9affb2'),\n  title: 'Understanding Blockchain Technology',\n  subtitle: 'The Basics of Blockchain and Its Applications',\n  imageUsed: 'https://example.com/images/blockchain-technology.jpg',\n  content: 'Blockchain technology is at the forefront of innovations in various sectors. This blog provides a comprehensive overview of blockchain technology, its core principles, and its potential applications beyond cryptocurrencies.',\n  user: new ObjectId('66e80607a4f397d74d9affa7'),\n  createdAt: 2024-09-16T10:21:55.473Z,\n  updatedAt: 2024-09-16T10:21:55.473Z,\n  __v: 0\n},{\n  _id: new ObjectId('66f69f914c003829d2f946ef'),\n  title: \"A Beginner's Guide to Artificial Intelligence\",\n  subtitle: 'Exploring AI Technologies and Their Impact',\n  imageUsed: 'https://example.com/images/artificial-intelligence.jpg',\n  content: 'This blog delves into the fundamentals of artificial intelligence, covering key technologies such as machine learning and neural networks, along with their implications for the future of work and society.',\n  user: new ObjectId('66e80607a4f397d74d9affa7'),\n  createdAt: 2024-09-27T12:05:37.746Z,\n  updatedAt: 2024-09-27T12:05:37.746Z,\n  __v: 0\n}","timestamp":"2024-09-27T12:21:16.039Z"}
 {"level":"info","message":">>> {\n  _id: new ObjectId('66e806c3a4f397d74d9affb2'),\n  title: 'Understanding Blockchain Technology',\n  subtitle: 'The Basics of Blockchain and Its Applications',\n  imageUsed: 'https://example.com/images/blockchain-technology.jpg',\n  content: 'Blockchain technology is at the forefront of innovations in various sectors. This blog provides a comprehensive overview of blockchain technology, its core principles, and its potential applications beyond cryptocurrencies.',\n  user: new ObjectId('66e80607a4f397d74d9affa7'),\n  createdAt: 2024-09-16T10:21:55.473Z,\n  updatedAt: 2024-09-16T10:21:55.473Z,\n  __v: 0\n},{\n  _id: new ObjectId('66f69f914c003829d2f946ef'),\n  title: \"A Beginner's Guide to Artificial Intelligence\",\n  subtitle: 'Exploring AI Technologies and Their Impact',\n  imageUsed: 'https://example.com/images/artificial-intelligence.jpg',\n  content: 'This blog delves into the fundamentals of artificial intelligence, covering key technologies such as machine learning and neural networks, along with their implications for the future of work and society.',\n  user: new ObjectId('66e80607a4f397d74d9affa7'),\n  createdAt: 2024-09-27T12:05:37.746Z,\n  updatedAt: 2024-09-27T12:05:37.746Z,\n  __v: 0\n}","timestamp":"2024-09-27T12:21:21.055Z"}
 {"level":"info","message":">>> {\n  _id: new ObjectId('66f6a02a4c003829d2f94707'),\n  title: 'Data Science for Beginners',\n  subtitle: 'Getting Started with Data Analysis and Machine Learning',\n  imageUsed: 'https://example.com/images/data-science.jpg',\n  content: 'This blog introduces the basics of data science, covering essential concepts in data analysis, machine learning, and the tools commonly used in the industry.',\n  user: new ObjectId('66e80607a4f397d74d9affa7'),\n  createdAt: 2024-09-27T12:08:10.587Z,\n  updatedAt: 2024-09-27T12:08:10.587Z,\n  __v: 0\n},{\n  _id: new ObjectId('66f6a0224c003829d2f94703'),\n  title: 'Mobile App Development Best Practices',\n  subtitle: 'Creating User-Friendly and Engaging Apps',\n  imageUsed: 'https://example.com/images/mobile-app-development.jpg',\n  content: 'Explore best practices in mobile app development, including user interface design, performance optimization, and strategies for enhancing user engagement.',\n  user: new ObjectId('66e80607a4f397d74d9affa7'),\n  createdAt: 2024-09-27T12:08:02.902Z,\n  updatedAt: 2024-09-27T12:08:02.902Z,\n  __v: 0\n}","timestamp":"2024-09-27T12:21:28.916Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T13:01:20.037Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T13:06:33.254Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T13:07:01.925Z"}
+{"level":"info","message":">> New User created !","timestamp":"2024-09-27T13:07:01.940Z"}
+{"level":"info","message":">> Saved User ","timestamp":"2024-09-27T13:07:02.029Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T13:26:42.608Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T13:26:46.881Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T13:26:52.352Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T13:27:06.629Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T14:00:00.535Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T14:02:37.361Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T14:02:37.395Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T14:02:37.406Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T14:02:37.414Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T14:04:27.315Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T14:04:27.347Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T14:04:27.359Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T14:04:27.366Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T14:06:06.874Z"}
+{"level":"info","message":">> New User created !","timestamp":"2024-09-27T14:06:06.877Z"}
+{"level":"info","message":">> Saved User ","timestamp":"2024-09-27T14:06:06.877Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T14:06:21.604Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T14:06:48.159Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T14:07:00.921Z"}
+{"level":"info","message":">> New User created !","timestamp":"2024-09-27T14:07:00.924Z"}
+{"level":"info","message":">> Saved User ","timestamp":"2024-09-27T14:07:00.925Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T14:07:00.949Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T14:07:00.959Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T14:07:00.967Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T14:48:32.655Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T14:49:00.391Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T14:49:00.412Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T14:50:59.297Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T14:50:59.316Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T14:53:02.967Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T14:53:02.990Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T14:53:59.038Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T14:53:59.058Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T14:54:15.406Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T14:54:15.427Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T14:55:46.839Z"}
+{"level":"info","message":">> New User created !","timestamp":"2024-09-27T14:55:46.842Z"}
+{"level":"info","message":">> Saved User ","timestamp":"2024-09-27T14:55:46.842Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T14:55:46.861Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T14:56:22.455Z"}
+{"level":"info","message":">> New User created !","timestamp":"2024-09-27T14:56:22.458Z"}
+{"level":"info","message":">> Saved User ","timestamp":"2024-09-27T14:56:22.458Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T14:56:22.477Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T14:57:20.954Z"}
+{"level":"info","message":">> New User created !","timestamp":"2024-09-27T14:57:20.958Z"}
+{"level":"info","message":">> Saved User ","timestamp":"2024-09-27T14:57:20.959Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T14:57:20.982Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T15:01:33.718Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T15:01:33.741Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T15:04:36.571Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T15:06:29.964Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T15:06:29.984Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T15:07:02.618Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T15:07:49.538Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T15:08:47.182Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T15:12:22.253Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T15:12:35.665Z"}
+{"level":"info","message":">> New User created !","timestamp":"2024-09-27T15:12:35.669Z"}
+{"level":"info","message":">> Saved User ","timestamp":"2024-09-27T15:12:35.670Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T15:13:01.981Z"}
+{"level":"info","message":">> New User created !","timestamp":"2024-09-27T15:13:01.999Z"}
+{"level":"info","message":">> Saved User ","timestamp":"2024-09-27T15:13:02.103Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T15:13:16.694Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T15:14:18.553Z"}
+{"level":"info","message":">> New User created !","timestamp":"2024-09-27T15:14:18.561Z"}
+{"level":"info","message":">> Saved User ","timestamp":"2024-09-27T15:14:18.565Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T15:14:18.596Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T15:14:18.613Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T15:14:18.620Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T15:14:18.669Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T15:14:18.693Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T15:14:43.396Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T15:14:43.417Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T15:16:14.891Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T15:16:14.922Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T15:16:45.235Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T15:16:45.257Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T15:18:02.872Z"}
+{"level":"info","message":">> New User created !","timestamp":"2024-09-27T15:18:02.882Z"}
+{"level":"info","message":">> Saved User ","timestamp":"2024-09-27T15:18:02.886Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T15:18:02.913Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T15:18:02.928Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T15:18:02.941Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T15:18:03.138Z"}
+{"level":"info","message":">> Validation Errors [object Object]","timestamp":"2024-09-27T15:18:03.161Z"}

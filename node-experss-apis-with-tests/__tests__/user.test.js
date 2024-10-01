@@ -36,7 +36,7 @@ describe('Test User API', () => {
 
     const response = await request(app)
       .post('/api/v1/register')
-      .send(registerUserJson);
+      .send({...registerUserJson, password:'Password@123'});
 
     expect(response.status).toBe(400);
     expect(response.body).toHaveProperty('message', 'User already exists, please login !');
